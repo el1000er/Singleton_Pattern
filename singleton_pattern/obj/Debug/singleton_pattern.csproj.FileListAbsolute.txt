@@ -1,0 +1,7 @@
+C:\Users\agusm\source\repos\singleton_pattern\singleton_pattern\bin\Debug\singleton_pattern.exe.config
+C:\Users\agusm\source\repos\singleton_pattern\singleton_pattern\bin\Debug\singleton_pattern.exe
+C:\Users\agusm\source\repos\singleton_pattern\singleton_pattern\bin\Debug\singleton_pattern.pdb
+C:\Users\agusm\source\repos\singleton_pattern\singleton_pattern\obj\Debug\singleton_pattern.csprojAssemblyReference.cache
+C:\Users\agusm\source\repos\singleton_pattern\singleton_pattern\obj\Debug\singleton_pattern.csproj.CoreCompileInputs.cache
+C:\Users\agusm\source\repos\singleton_pattern\singleton_pattern\obj\Debug\singleton_pattern.exe
+C:\Users\agusm\source\repos\singleton_pattern\singleton_pattern\obj\Debug\singleton_pattern.pdb
